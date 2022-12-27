@@ -1,0 +1,10 @@
+de/xyonox/xapi/builders/PlayerScoreboardBuilder.class
+de/xyonox/xapi/XApi.class
+de/xyonox/xapi/builders/InventoryBuilder.class
+de/xyonox/xapi/cmd/XApiCommand.class
+de/xyonox/xapi/listener/PlayerSeasonListener.class
+de/xyonox/xapi/systems/Ranks.class
+de/xyonox/xapi/builders/InventoryBuilder$PreparedInventory.class
+de/xyonox/xapi/builders/ItemBuilder.class
+de/xyonox/xapi/builders/ScoreboardBuilder.class
+de/xyonox/xapi/utils/Config.class

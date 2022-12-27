@@ -1,0 +1,8 @@
+name: XApi
+version: '1.0.0'
+main: de.xyonox.xapi.XApi
+api-version: 1.19
+authors: [ Xyonox ]
+commands:
+  pinfo:
+    aliases: "uinfo"
